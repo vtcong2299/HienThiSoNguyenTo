@@ -25,6 +25,7 @@ namespace HienThiSoNguyenTo
                    Console.Write("Nhap lai so luong so nguyen to can in ra: "); 
                 }
             }
+            Console.Write("{0} So nguyen to dau tien la: ", quantityNum);
             for(num=0;;num++)
             {
                 int count=0;
