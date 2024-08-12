@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThi20SoNguyenToDauTien\bin\Debug\net8.0\HienThi20SoNguyenToDauTien.exe
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThi20SoNguyenToDauTien\bin\Debug\net8.0\HienThi20SoNguyenToDauTien.deps.json
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThi20SoNguyenToDauTien\bin\Debug\net8.0\HienThi20SoNguyenToDauTien.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThi20SoNguyenToDauTien\bin\Debug\net8.0\HienThi20SoNguyenToDauTien.dll
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThi20SoNguyenToDauTien\bin\Debug\net8.0\HienThi20SoNguyenToDauTien.pdb
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThi20SoNguyenToDauTien\obj\Debug\net8.0\HienThi20SoNguyenToDauTien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThi20SoNguyenToDauTien\obj\Debug\net8.0\HienThi20SoNguyenToDauTien.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThi20SoNguyenToDauTien\obj\Debug\net8.0\HienThi20SoNguyenToDauTien.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThi20SoNguyenToDauTien\obj\Debug\net8.0\HienThi20SoNguyenToDauTien.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThi20SoNguyenToDauTien\obj\Debug\net8.0\HienThi20SoNguyenToDauTien.dll
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThi20SoNguyenToDauTien\obj\Debug\net8.0\refint\HienThi20SoNguyenToDauTien.dll
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThi20SoNguyenToDauTien\obj\Debug\net8.0\HienThi20SoNguyenToDauTien.pdb
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThi20SoNguyenToDauTien\obj\Debug\net8.0\HienThi20SoNguyenToDauTien.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThi20SoNguyenToDauTien\obj\Debug\net8.0\ref\HienThi20SoNguyenToDauTien.dll
